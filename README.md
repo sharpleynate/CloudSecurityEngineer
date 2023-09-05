@@ -74,7 +74,7 @@ My Personal Roadmap [@sharpleynate](https://github.com/sharpleynate)
 
 
 
-## 🌟 Cybersecurity and Cloud Certification Pathway 🌟
+## 🌟 Certification Pathway In Order 🌟
 
 1. **Security+**
 2. **CCNA (Cisco Certified Network Associate)**
@@ -88,7 +88,7 @@ My Personal Roadmap [@sharpleynate](https://github.com/sharpleynate)
 
 
 
-## 🌟 Key Soft Skills and Strategies for Cybersecurity Success 🌟
+## 🌟 Key Soft Skills and Strategies for Success 🌟
 
 - **Soft Skills and Communication:** While technical skills are crucial, don't underestimate the importance of soft skills. Effective communication, problem-solving, and the ability to work well in a team are valuable assets in any cybersecurity role. 🗣️🤝
 
@@ -112,7 +112,7 @@ My Personal Roadmap [@sharpleynate](https://github.com/sharpleynate)
 
 
 
-## 🌟 Advanced Strategies and Specializations in Cybersecurity 🌟
+## 🌟 Advanced Strategies and Specializations 🌟
 
 - **Cybersecurity Ethics and Legal Aspects:** Integrate a phase that delves into the ethical considerations of cybersecurity, including legal frameworks and compliance. Understanding the legal and ethical dimensions of cybersecurity is crucial for responsible and effective practice. ⚖️🔒
 
@@ -136,7 +136,7 @@ My Personal Roadmap [@sharpleynate](https://github.com/sharpleynate)
 
 
 
-## 📚 Essential Books for Skill Development and Learning in Cloud Computing, DevOps, and Programming 📚
+## 📚 Essential Books For Each Phase 📚
 
 ### Phase 1: Building Skill Foundation and Cloud Fundamentals
 
@@ -175,7 +175,7 @@ My Personal Roadmap [@sharpleynate](https://github.com/sharpleynate)
 
 
 
-## 📚 Additional Essential Books for Your Journey 📚
+## 📚 Additional Books for Your Journey 📚
 
 1. "Cloud Computing: Concepts, Technology & Architecture" by Thomas Erl, Ricardo Puttini, and Zaigham Mahmood
 2. "Infrastructure as Code: Managing Servers in the Cloud" by Kief Morris
