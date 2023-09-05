@@ -1,6 +1,6 @@
 # Cloud Security Engineer Roadmap 2023 🛡️
 
-**My Personal Roadmap** [@sharpleynate](https://github.com/sharpleynate)
+My Personal Roadmap. [@sharpleynate](https://github.com/sharpleynate)
 
 
 
