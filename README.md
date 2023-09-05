@@ -2,6 +2,8 @@
 
 My Personal Roadmap [@sharpleynate](https://github.com/sharpleynate)
 
+
+
 ## Comprehensive Cloud Security Engineer Roadmap
 
 ### Phase 1: Building Skill Foundation and Cloud Fundamentals
@@ -70,6 +72,8 @@ My Personal Roadmap [@sharpleynate](https://github.com/sharpleynate)
 22. **Pursue Master's Degree in Cybersecurity**
     - Consider obtaining this degree for added flexibility and expertise. 🎓🔒
 
+
+
 ## 🌟 Cybersecurity and Cloud Certification Pathway 🌟
 
 1. **Security+**
@@ -81,6 +85,8 @@ My Personal Roadmap [@sharpleynate](https://github.com/sharpleynate)
 7. **eJPT (eLearnSecurity Junior Penetration Tester)**
 8. **CISM (Certified Information Security Manager)**
 9. **CISSP (Certified Information Systems Security Professional) or ISC2**
+
+
 
 ## 🌟 Key Soft Skills and Strategies for Cybersecurity Success 🌟
 
@@ -104,6 +110,8 @@ My Personal Roadmap [@sharpleynate](https://github.com/sharpleynate)
 
 - **Personal Branding:** As you progress in your cybersecurity journey, consider building a personal brand. This can involve sharing your knowledge through blogs, social media, or public speaking. It can enhance your visibility and credibility in the field. 🌟📢
 
+
+
 ## 🌟 Advanced Strategies and Specializations in Cybersecurity 🌟
 
 - **Cybersecurity Ethics and Legal Aspects:** Integrate a phase that delves into the ethical considerations of cybersecurity, including legal frameworks and compliance. Understanding the legal and ethical dimensions of cybersecurity is crucial for responsible and effective practice. ⚖️🔒
@@ -125,6 +133,47 @@ My Personal Roadmap [@sharpleynate](https://github.com/sharpleynate)
 - **Continuous Feedback Loop:** Throughout the roadmap, emphasize the importance of seeking feedback and self-assessment. Regularly evaluate your progress, identify areas for improvement, and adjust your learning path accordingly. 🔄📊
 
 - **Stay Adaptable:** Stress the need to remain adaptable and open to change. The cybersecurity landscape evolves rapidly, and being able to pivot your focus and skills as new technologies emerge is essential. 🔄🚀
+
+
+
+## 📚 Essential Books for Skill Development and Learning in Cloud Computing, DevOps, and Programming 📚
+
+### Phase 1: Building Skill Foundation and Cloud Fundamentals
+
+- **Foundations of Linux**: "Linux Command Line and Shell Scripting Bible" by Richard Blum and Christine Bresnahan 🐧📘
+
+### Phase 2: Foundational Knowledge and Cloud Networking
+
+- **Security+ Certification & CCNA Training**:
+    - "CompTIA Security+ Study Guide: Exam SY0-601" by Mike Chapple, David Seidl, and Jonathan Lau 🛡️📚
+    - "CCNA Routing and Switching Complete Study Guide: Exam 100-105, Exam 200-105, Exam 200-125" by Todd Lammle 🌐📖
+- **Proficiency in Python and Bash Scripting**:
+    - "Automate the Boring Stuff with Python" by Al Sweigart 🐍📜
+    - "Linux Command Line and Shell Scripting Bible" by Richard Blum and Christine Bresnahan 🐧📜
+
+### Phase 3: Cloud Proficiency and Cybersecurity Essentials
+
+- **Terraform Mastery, Containerization, and CI/CD Understanding**:
+    - "Terraform: Up & Running - Writing Infrastructure as Code" by Yevgeniy Brikman 🏗️📘
+    - "Kubernetes: Up and Running" by Kelsey Hightower, Brendan Burns, and Joe Beda 🐳📘
+
+### Phase 4: Cloud Security and Advanced Certifications
+
+- **Achieve AWS Certified Solutions Architect - Professional**:
+    - "AWS Certified Solutions Architect Official Study Guide: Associate Exam" by Joe Baron, Hisham Baz, Tim Bixler, et al. 🏗️📚
+- **Certified Information Security Manager (CISM) Certification**:
+    - "CISM Certified Information Security Manager All-in-One Exam Guide" by Peter H. Gregory 🔐📖
+- **Certified Cloud Security Knowledge (CCSK) Certification**:
+    - "Cloud Security: A Comprehensive Guide to Secure Cloud Computing" by Ronald L. Krutz and Russell Dean Vines ☁️📜
+
+### Phase 5: Advanced Cybersecurity and Specialization
+
+- **Obtain CompTIA CySA+ & eLearnSecurity Junior Penetration Tester (eJPT) Certifications**:
+    - "CompTIA Cybersecurity Analyst (CySA+) Study Guide: Exam CS0-002" by Mike Chapple and David Seidl 🔍📚
+- **Certified Information Systems Security Professional (CISSP) Certification**:
+    - "CISSP (ISC)2 Certified Information Systems Security Professional Official Study Guide" by Mike Chapple, James Michael Stewart, and Darril Gibson 🔐📖
+
+
 
 ## 📚 Additional Essential Books for Your Journey 📚
 
