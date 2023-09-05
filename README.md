@@ -104,7 +104,7 @@ My Personal Roadmap [@sharpleynate](https://github.com/sharpleynate)
 
 - **Personal Branding:** As you progress in your cybersecurity journey, consider building a personal brand. This can involve sharing your knowledge through blogs, social media, or public speaking. It can enhance your visibility and credibility in the field. 🌟📢
 
-🌟 Advanced Strategies and Specializations in Cybersecurity 🌟
+## 🌟 Advanced Strategies and Specializations in Cybersecurity 🌟
 
 - **Cybersecurity Ethics and Legal Aspects:** Integrate a phase that delves into the ethical considerations of cybersecurity, including legal frameworks and compliance. Understanding the legal and ethical dimensions of cybersecurity is crucial for responsible and effective practice. ⚖️🔒
 
@@ -143,5 +143,3 @@ My Personal Roadmap [@sharpleynate](https://github.com/sharpleynate)
 13. "Cracking the Coding Interview: 189 Programming Questions and Solutions" by Gayle Laakmann McDowell
 14. "Resume Magic: Trade Secrets of a Professional Resume Writer" by Susan Britton Whitcomb
 15. "How to Write a KILLER LinkedIn Profile... And 18 Mistakes to Avoid" by Brenda Bernstein
-
-Let these books be your companions on your exciting journey in cloud security and cybersecurity! 📚🌟
